@@ -1,0 +1,6 @@
+{
+  "name": "BHUMI 360",
+  "description": "Integrated Land Acquisition & Management Platform - One Land. One Lifecycle. One Intelligent Platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
